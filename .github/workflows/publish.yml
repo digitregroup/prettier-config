@@ -3,10 +3,9 @@ name: Publish
 on:
   push:
     tags:
-      - 'v*.*.*'
+      - "*.*.*"
 
 jobs:
-
   publish:
     name: Publish package to NPM
     runs-on: [ubuntu-latest]

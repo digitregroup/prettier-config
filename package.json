@@ -1,0 +1,24 @@
+{
+  "name": "@digitregroup/prettier-config",
+  "version": "1.0.0",
+  "description": "DigitRE group's Prettier configuration for all javascript projects.",
+  "main": "index.json",
+  "author": "DigitRE group",
+  "license": "MIT",
+  "keywords": [
+    "digitregroup",
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitregroup/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/digitregroup/prettier-config/issues"
+  },
+  "homepage": "https://github.com/digitregroup/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "^2.1.2"
+  }
+}

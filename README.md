@@ -1,6 +1,7 @@
 # DigitRE group's Prettier configuration for all javascript projects.
 
 [![NPM Badge](https://img.shields.io/npm/v/@digitregroup/prettier-config.svg)](https://www.npmjs.com/package/@digitregroup/prettier-config)
+[![Publish Actions Status](https://github.com/digitregroup/prettier-config/workflows/Publish/badge.svg)](https://github.com/digitregroupe/prettier-config/actions)
 
 ## Install
 
